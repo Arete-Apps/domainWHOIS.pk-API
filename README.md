@@ -1,0 +1,2 @@
+# domainWHOIS.pk-API
+domainWHOIS.pk provides a RESTful API for WHOIS Lookup of .PK Domain Names which includes information such as Status and Registration Details. It is designed for server-to-server communication between your system and the domainWHOIS.pk network using HTTPs protocol. Query responses are delivered in either JSON, XML or Text format based on your requests which are made via GET/POST methods.
